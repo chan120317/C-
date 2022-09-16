@@ -4,6 +4,12 @@
 #define endl '\n'
 using namespace std;
 
+/*
+* Platform : HackerRank
+* Title : For Loop
+* Rank : Basic
+*/
+
 int main() {
     // Complete the code.
     int a, b;
