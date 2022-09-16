@@ -1,5 +1,8 @@
-﻿#include <bits/stdc++.h>
-#define FIO cin.tie(0); cout.tie(0); ios::sync_with_stdio(0);
+﻿#include <cmath>
+#include <cstdio>
+#include <vector>
+#include <iostream>
+#include <algorithm>
 using namespace std;
 
 /*
